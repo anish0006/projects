@@ -103,4 +103,4 @@ Plotly: For interactive graphs and visualizations.
 Jupyter Notebook: For organizing the analysis
 
 
-.
+![projectgf](https://github.com/user-attachments/assets/331124ac-d10c-4182-9ce9-88ca765278c7)
